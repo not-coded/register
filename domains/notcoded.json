@@ -1,13 +1,12 @@
 {
-    "description": "redirect to website",
-    "repo": "https://github.com/not-coded/notcoded.cf",
+    "description": "Use is-a.dev domain because notcoded.cf went down.",
+    "repo": "https://github.com/not-coded/not-coded.github.io",
     "owner": {
         "username": "NotCoded",
-        "email": "contact@notcoded.cf",
         "discord": "NotCoded#4987",
         "discordUserID": "620662953347121163"
     },
     "record": {
-        "URL": "https://notcoded.cf"
+        "URL": "https://not-coded.github.io"
     }
 } 
